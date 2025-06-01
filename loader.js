@@ -1,5 +1,5 @@
 // 統一版本號，只要改這裡就好
-const version = '20240601';
+const version = '2024060101';
 
 // 加載 CSS
 const css = document.createElement('link');
